@@ -1,0 +1,3 @@
+C:/Users/25768/Desktop/作业/训练营作业/小组/build02/CMakeFiles/02_Rendering_a_Triangle.dir
+C:/Users/25768/Desktop/作业/训练营作业/小组/build02/CMakeFiles/ALL_BUILD.dir
+C:/Users/25768/Desktop/作业/训练营作业/小组/build02/CMakeFiles/ZERO_CHECK.dir

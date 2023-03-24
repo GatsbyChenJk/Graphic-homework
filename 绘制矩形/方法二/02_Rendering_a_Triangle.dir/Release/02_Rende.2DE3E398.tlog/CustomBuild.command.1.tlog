@@ -1,0 +1,10 @@
+^D:\DX11\PROJECT 01-09\02 RENDERING A TRIANGLE\CMAKELISTS.TXT
+setlocal
+D:\Cmake\bin\cmake.exe "-SD:/DX11/Project 01-09/02 Rendering a Triangle" -BC:/Users/25768/Desktop/作业/训练营作业/小组/build02 --check-stamp-file C:/Users/25768/Desktop/作业/训练营作业/小组/build02/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

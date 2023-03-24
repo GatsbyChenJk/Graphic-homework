@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\DX11\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DX11\Project 01-09\02 Rendering a Triangle\DXTrace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DX11\Project 01-09\02 Rendering a Triangle\GameApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DX11\Project 01-09\02 Rendering a Triangle\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DX11\Project 01-09\02 Rendering a Triangle\d3dApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DX11\Project 01-09\02 Rendering a Triangle\d3dUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\DX11\Project 01-09\02 Rendering a Triangle\CpuTimer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DX11\Project 01-09\02 Rendering a Triangle\DXTrace.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DX11\Project 01-09\02 Rendering a Triangle\GameApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DX11\Project 01-09\02 Rendering a Triangle\WinMin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DX11\Project 01-09\02 Rendering a Triangle\d3dApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DX11\Project 01-09\02 Rendering a Triangle\d3dUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\DX11\Project 01-09\02 Rendering a Triangle\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <FXCompile Include="D:\DX11\Project 01-09\02 Rendering a Triangle\HLSL\Triangle_PS.hlsl">
+      <Filter>HLSL Files</Filter>
+    </FXCompile>
+    <FXCompile Include="D:\DX11\Project 01-09\02 Rendering a Triangle\HLSL\Triangle_VS.hlsl">
+      <Filter>HLSL Files</Filter>
+    </FXCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\DX11\Project 01-09\02 Rendering a Triangle\HLSL\Triangle.hlsli">
+      <Filter>HLSL Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="HLSL Files">
+      <UniqueIdentifier>{381006CF-7110-3CAF-AC62-BC362998DD17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3B93998E-90A1-3069-ABB4-9E087394D914}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{141F8AC4-32DE-31D8-96BD-FDA69241E0A0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
