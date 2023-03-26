@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\CpuTimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\DXTrace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\GameApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\Keyboard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\Mouse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\d3dApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\d3dUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\CpuTimer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\DXTrace.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\GameApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\Keyboard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\Mouse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\WinMin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\d3dApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\d3dUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <FXCompile Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\HLSL\Cube_PS.hlsl">
+      <Filter>HLSL Files</Filter>
+    </FXCompile>
+    <FXCompile Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\HLSL\Cube_VS.hlsl">
+      <Filter>HLSL Files</Filter>
+    </FXCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\25768\Desktop\作业\训练营作业\小组\DX11changable\Project 01-09\03 Rendering a Cube\HLSL\Cube.hlsli">
+      <Filter>HLSL Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="HLSL Files">
+      <UniqueIdentifier>{381006CF-7110-3CAF-AC62-BC362998DD17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3B93998E-90A1-3069-ABB4-9E087394D914}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{141F8AC4-32DE-31D8-96BD-FDA69241E0A0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
